@@ -1,3 +1,3 @@
-# kepler.gl website
+# Shan's website
 
-In order to update, checkout the `website` folder on the `master` branch, make your changes, and run `yarn deploy`.
+Nothing important here, I use it for project testing
